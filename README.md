@@ -56,7 +56,7 @@ Continuo meus estudos através de projetos práticos, documentação técnica e 
 
 ## Contato
 
-📫 [LinkedIn](https://br.linkedin.com/in/miqu%C3%A9as-ferreira-de-lima-martins-446a96274)  
+📫 [LinkedIn](https://br.linkedin.com/in/miqu%C3%A9ias-ferreira-de-lima-martins-446a96274)  
 📧 miqueiasmartin31@gmail.com
 
 ---
