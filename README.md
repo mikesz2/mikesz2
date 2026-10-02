@@ -1,114 +1,64 @@
-👋 Olá, eu sou Miquéias Ferreira
+# Olá, eu sou Miquéias Ferreira 👋
 
-💻 Desenvolvedor de Software | Backend | Automação | Integrações
+### Desenvolvimento de Software • Automação • Integrações • Backend
 
-Desenvolvo sistemas, automações, bots e aplicações web com foco em resolver problemas reais.
+Estou em transição para a área de Tecnologia e construo projetos reais envolvendo sistemas web, automações, APIs, bots, integrações e deploy.
 
-Tenho experiência prática construindo projetos com integrações entre APIs, bancos de dados, dashboards administrativos, automações e serviços externos.
+Tenho experiência prática com desenvolvimento e evolução de aplicações, investigação de bugs, testes, Git/GitHub e manutenção em Linux/VPS.
 
-Atualmente estou focado em evoluir como desenvolvedor e construir um portfólio sólido com projetos reais e funcionais.
+Atualmente busco uma oportunidade em **Desenvolvimento Júnior, Automação, Suporte Técnico, Suporte de Sistemas ou QA**, com preferência por trabalho remoto.
 
-⸻
+## Tecnologias e ferramentas
 
-🚀 Sobre mim
+**Backend:** Node.js, Express, Python, FastAPI  
+**Banco de dados:** Prisma ORM, SQLAlchemy, SQLite  
+**Web:** JavaScript, HTML, CSS  
+**Integrações:** APIs REST, Telegram, WhatsApp, Shopee Affiliate API  
+**Infra:** Git, GitHub, Docker, Linux, VPS, Discloud  
+**Qualidade:** debugging, testes funcionais, troubleshooting e CI
 
-* 💻 Desenvolvimento de sistemas web e ferramentas de automação
-* 🤖 Criação de bots e integrações entre plataformas
-* 🔌 Integração com APIs e serviços externos
-* 🗄️ Trabalho com bancos de dados e persistência de dados
-* 🐧 Deploy e configuração de aplicações em Linux/VPS
-* 🧠 Interesse em Inteligência Artificial e automações inteligentes
-* 🌎 Buscando oportunidades remotas na área de tecnologia
+## Projetos em destaque
 
-⸻
+### 🛡️ DPE System
 
-🛠️ Tecnologias
+Sistema web de gestão operacional com autenticação, permissões, turnos, histórico, requisições, comunicação interna, auditoria e automações.
 
-Linguagens e Backend
+**Stack:** Node.js · Express · Prisma · SQLite · JavaScript · Linux
 
-Web
+O componente proprietário **DPE Command permanece privado**. A apresentação pública mostra apenas o sistema web e a arquitetura necessária para portfólio.
 
-Banco de Dados
+➡️ [Ver apresentação técnica do DPE System](./projects/dpe-system/README.md)
 
-Ferramentas e Infraestrutura
+### 🛒 Shopee Deal Machine V7.1
 
-⸻
+Plataforma de automação para descoberta, análise e distribuição de ofertas, com integração Shopee, Telegram e WhatsApp.
 
-📌 Projetos em Destaque
+**Stack:** Python · FastAPI · SQLAlchemy · Telethon · Evolution API · Docker
 
-🛡️ DPE System
+➡️ [Ver repositório Shopee Deal Machine](https://github.com/mikesz2/SHOPEE-DEAL-MACHINE)  
+➡️ [Ver case técnico](./projects/shopee-deal-machine/README.md)
 
-Sistema completo de gerenciamento e automação desenvolvido para uma organização dentro do Habbo Hotel.
+## O que gosto de resolver
 
-Principais recursos
+- transformar processos manuais em automações;
+- integrar sistemas e APIs;
+- investigar e corrigir falhas;
+- criar painéis administrativos;
+- estruturar permissões e regras de negócio;
+- publicar e manter aplicações em servidor;
+- evoluir sistemas existentes sem quebrar fluxos importantes.
 
-* Dashboard administrativo
-* Sistema de usuários e permissões
-* Controle de turnos
-* Registro de promoções
-* Histórico de usuários
-* Controle de funções e setores
-* Automação por bot
-* Integração entre bot e sistema web
-* Sistema de aulas e registros
-* Rede social interna
-* Atualizações em tempo real
+## Formação
 
-Tecnologias
+**Análise e Desenvolvimento de Sistemas** — graduação iniciada e atualmente interrompida.
 
-Node.js JavaScript Banco de Dados APIs Automação Linux
+Continuo meus estudos através de projetos práticos, documentação técnica e cursos livres.
 
-⸻
+## Contato
 
-🛒 Plataforma de Automação de Ofertas
+📫 [LinkedIn](https://br.linkedin.com/in/miqu%C3%A9as-ferreira-de-lima-martins-446a96274)  
+📧 miqueiasmartin31@gmail.com
 
-Sistema desenvolvido para automatizar a busca, organização e distribuição de ofertas de produtos.
+---
 
-Principais recursos
-
-* Busca automatizada de ofertas
-* Processamento e seleção de anúncios
-* Painel web administrativo
-* Integração com Telegram
-* Integração com WhatsApp
-* Gerenciamento de grupos
-* Automação de publicações
-* Sistema de configuração
-* Processamento de links de afiliados
-* Execução em servidor Linux
-
-Tecnologias
-
-Python APIs Telegram WhatsApp Automação Web Linux
-
-⸻
-
-⚙️ Áreas de Interesse
-
-Backend Development
-Web Development
-APIs
-Automação
-Bots
-Inteligência Artificial
-Integração de Sistemas
-SaaS
-Linux / VPS
-
-⸻
-
-📊 GitHub
-
-⸻
-
-🤝 Vamos conversar
-
-Estou aberto a oportunidades profissionais, projetos e colaborações na área de desenvolvimento.
-
-📫 LinkedIn: https://br.linkedin.com/in/miqu%C3%A9ias-ferreira-de-lima-martins-446a96274
-💼 Portfólio: em construção
-📧 E-mail: miqueiasmartin31@gmail.com
-
-⸻
-
-🚀 Transformando ideias em sistemas, automações e soluções reais.
+**Buscando minha primeira oportunidade profissional em Tecnologia e aberto a trabalho remoto.**
